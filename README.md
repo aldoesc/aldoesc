@@ -51,11 +51,11 @@ Diseño & multimedia                      ███████       Photoshop 
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | [📚 Biblioteca Cordillera](https://github.com/aldoesc/biblioteca-cordillera) | E-commerce de libros con escaneo ISBN, carrito y pagos | TS · React · Hono · Cloudflare |
-| [🎮 PlayinVR CRM](https://github.com/aldoesc/CRM-Hexa38) | CRM multi-tienda para salas VR con sync cloud y IA | Python · Flet · SQLite · MCP |
 | [📺 Hexa38 CMS](https://github.com/aldoesc/Proyecto_cms_hexa38) | Cartelería digital: panel web + reproductor kiosko | Python · Flask · Docker |
 | [⏱️ SUItime](https://github.com/aldoesc/suitime) | Gestión de tareas operacionales Windows + Android | Python · Flet · Android APK |
 | [☁️ Nube Privada](https://github.com/aldoesc/nextcloud-hexa38) | Self-hosting Nextcloud con Docker, tunnels y MCP | Docker · Cloudflare · Tailscale |
 | [🌐 Portafolio](https://github.com/aldoesc/portafolio-hexa38) | Este portafolio | React · Vite · TS |
+| 🎮 PlayinVR CRM | CRM multi-tienda para salas VR con sync cloud y IA *(privado)* | Python · Flet · SQLite · MCP |
 
 ---
 
